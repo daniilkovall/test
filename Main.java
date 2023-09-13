@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println(convert(5000));
-        System.out.println(convert(36));
+        System.out.println(convert(37));
 
     }
 }
